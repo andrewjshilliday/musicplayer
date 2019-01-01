@@ -1,8 +1,0 @@
-.loading-spinner {
-  top: 32vh;
-  margin: 0 auto;
-}
-
-input::-webkit-calendar-picker-indicator {
-  display: none;
-}
