@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1554234896129,
+  "index": "https://andrewjshilliday.github.io/musicplayer/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://andrewjshilliday.github.io/musicplayer/favicon.ico",
+        "https://andrewjshilliday.github.io/musicplayer/index.html",
+        "https://andrewjshilliday.github.io/musicplayer/main.4b51fe93bf51ecc91ce9.js",
+        "https://andrewjshilliday.github.io/musicplayer/polyfills.de29b1201149cccb822d.js",
+        "https://andrewjshilliday.github.io/musicplayer/runtime.26209474bfa8dc87a77c.js",
+        "https://andrewjshilliday.github.io/musicplayer/scripts.201cd8c2534507b4525e.js",
+        "https://andrewjshilliday.github.io/musicplayer/styles.c7500482cbf48d329f42.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-128x128.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-144x144.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-152x152.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-192x192.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-384x384.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-512x512.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-72x72.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-96x96.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/images/apple_music_logo.png",
+        "https://andrewjshilliday.github.io/musicplayer/assets/images/artist_background_placeholder.jpg",
+        "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder.png",
+        "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.674f50d287a8c48dc19b.eot",
+        "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.912ec66d7572ff821749.svg",
+        "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
+        "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.b06871f281fee6b241d6.ttf",
+        "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.fee66e712a8a08eef580.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://andrewjshilliday.github.io/musicplayer/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://andrewjshilliday.github.io/musicplayer/assets/images/apple_music_logo.png": "4f7ad5eeb0b9332f9345644a07fd1389320dba92",
+    "https://andrewjshilliday.github.io/musicplayer/assets/images/artist_background_placeholder.jpg": "4b9ebf7262676c60026476285d3d388131b6aa29",
+    "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder.png": "35edd59eac472912b6bdd987bfeaa468ce702e10",
+    "https://andrewjshilliday.github.io/musicplayer/favicon.ico": "f6091f55db8d3b96139f2189697426590ea277fd",
+    "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "https://andrewjshilliday.github.io/musicplayer/index.html": "ec502ea17a8e2ce1adf1eee83ac9919a62e9bfbf",
+    "https://andrewjshilliday.github.io/musicplayer/main.4b51fe93bf51ecc91ce9.js": "d348ae187e9dc0c80647856df4feb9790ba53c8e",
+    "https://andrewjshilliday.github.io/musicplayer/polyfills.de29b1201149cccb822d.js": "d122139ff6d0bd3f6250a33150756660b8d2f12b",
+    "https://andrewjshilliday.github.io/musicplayer/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://andrewjshilliday.github.io/musicplayer/scripts.201cd8c2534507b4525e.js": "d355af45fc60ca3ed82b2e265c6f3f558c47aaf1",
+    "https://andrewjshilliday.github.io/musicplayer/styles.c7500482cbf48d329f42.css": "2763be0103ae97cb86db501f899de6649b9accc0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
