@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1556655713005,
+  "timestamp": 1556739368706,
   "index": "https://andrewjshilliday.github.io/musicplayer/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "https://andrewjshilliday.github.io/musicplayer/favicon.ico",
         "https://andrewjshilliday.github.io/musicplayer/index.html",
-        "https://andrewjshilliday.github.io/musicplayer/main.320c280a7c0f6e485f08.js",
+        "https://andrewjshilliday.github.io/musicplayer/main.a332604c9c49042f1f72.js",
         "https://andrewjshilliday.github.io/musicplayer/polyfills.de29b1201149cccb822d.js",
         "https://andrewjshilliday.github.io/musicplayer/runtime.26209474bfa8dc87a77c.js",
         "https://andrewjshilliday.github.io/musicplayer/scripts.8f426718a18b64bc36b4.js",
@@ -66,8 +66,8 @@
     "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
     "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
     "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "https://andrewjshilliday.github.io/musicplayer/index.html": "093d9edb9cec28861a47329ae56f27e428cec6bb",
-    "https://andrewjshilliday.github.io/musicplayer/main.320c280a7c0f6e485f08.js": "d452d3b82f500d90f86625f09e1cfc8fce894a1f",
+    "https://andrewjshilliday.github.io/musicplayer/index.html": "f2363dfe2ea9f2e037afcfd692f49c15219d94d4",
+    "https://andrewjshilliday.github.io/musicplayer/main.a332604c9c49042f1f72.js": "4903aeb76ccec7cb4aeff8dff38c3600342651c9",
     "https://andrewjshilliday.github.io/musicplayer/polyfills.de29b1201149cccb822d.js": "d122139ff6d0bd3f6250a33150756660b8d2f12b",
     "https://andrewjshilliday.github.io/musicplayer/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://andrewjshilliday.github.io/musicplayer/scripts.8f426718a18b64bc36b4.js": "a55ef21515a6a90aeef2e8c7b9d75b6d0fbb6f13",
