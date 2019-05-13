@@ -76,9 +76,9 @@ THE SOFTWARE.
 
 @angular/material/select
 
-@angular/material/sidenav
-
 @angular/material/slider
+
+@angular/material/snack-bar
 
 @angular/material/tabs
 
