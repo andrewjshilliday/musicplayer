@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1558896270365,
+  "timestamp": 1559154173109,
   "index": "https://andrewjshilliday.github.io/musicplayer/index.html",
   "assetGroups": [
     {
@@ -10,9 +10,12 @@
       "urls": [
         "https://andrewjshilliday.github.io/musicplayer/favicon.ico",
         "https://andrewjshilliday.github.io/musicplayer/index.html",
-        "https://andrewjshilliday.github.io/musicplayer/main.ef66fea658e03b8a3618.js",
-        "https://andrewjshilliday.github.io/musicplayer/polyfills.de29b1201149cccb822d.js",
-        "https://andrewjshilliday.github.io/musicplayer/runtime.26209474bfa8dc87a77c.js",
+        "https://andrewjshilliday.github.io/musicplayer/main-es2015.052892923f2a62f35259.js",
+        "https://andrewjshilliday.github.io/musicplayer/main-es5.744380bf8765affd80be.js",
+        "https://andrewjshilliday.github.io/musicplayer/polyfills-es2015.da2aab5dd0218473bcb5.js",
+        "https://andrewjshilliday.github.io/musicplayer/polyfills-es5.a7453ede7feabe603edc.js",
+        "https://andrewjshilliday.github.io/musicplayer/runtime-es2015.858f8dd898b75fe86926.js",
+        "https://andrewjshilliday.github.io/musicplayer/runtime-es5.741402d1d47331ce975c.js",
         "https://andrewjshilliday.github.io/musicplayer/scripts.8f426718a18b64bc36b4.js",
         "https://andrewjshilliday.github.io/musicplayer/styles.06e314dfa01b61274a53.css"
       ],
@@ -66,12 +69,15 @@
     "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
     "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
     "https://andrewjshilliday.github.io/musicplayer/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "https://andrewjshilliday.github.io/musicplayer/index.html": "eee9ecd7d06be1f5926eef336725c75d016e7049",
-    "https://andrewjshilliday.github.io/musicplayer/main.ef66fea658e03b8a3618.js": "abd2f114b8c0237e1357b25b921e2b57e76ae77f",
-    "https://andrewjshilliday.github.io/musicplayer/polyfills.de29b1201149cccb822d.js": "d122139ff6d0bd3f6250a33150756660b8d2f12b",
-    "https://andrewjshilliday.github.io/musicplayer/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://andrewjshilliday.github.io/musicplayer/index.html": "573f61c5b05e7f9a6cc7eb5ac0e12708834d7aa2",
+    "https://andrewjshilliday.github.io/musicplayer/main-es2015.052892923f2a62f35259.js": "6b7af57704254b33f491db7ecc25bf80d5e054cf",
+    "https://andrewjshilliday.github.io/musicplayer/main-es5.744380bf8765affd80be.js": "a78b56b882d989fd2a39e29aa4d5a3a616a9eee1",
+    "https://andrewjshilliday.github.io/musicplayer/polyfills-es2015.da2aab5dd0218473bcb5.js": "69d5ca555ff4c9bd76731d44a15ef597c93ee7fa",
+    "https://andrewjshilliday.github.io/musicplayer/polyfills-es5.a7453ede7feabe603edc.js": "68c919e67d3f40c5a35f3c8ef2b8d920fd4ad89d",
+    "https://andrewjshilliday.github.io/musicplayer/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://andrewjshilliday.github.io/musicplayer/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://andrewjshilliday.github.io/musicplayer/scripts.8f426718a18b64bc36b4.js": "a55ef21515a6a90aeef2e8c7b9d75b6d0fbb6f13",
-    "https://andrewjshilliday.github.io/musicplayer/styles.06e314dfa01b61274a53.css": "8d88848648f62a6608264a2e69dd740ba1b10e02"
+    "https://andrewjshilliday.github.io/musicplayer/styles.06e314dfa01b61274a53.css": "f57b16c032b490da2d951650dbcde4a093712b69"
   },
   "navigationUrls": [
     {
