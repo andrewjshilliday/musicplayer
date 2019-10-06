@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1569873436372,
+  "timestamp": 1570355383011,
   "index": "https://andrewjshilliday.github.io/musicplayer/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://andrewjshilliday.github.io/musicplayer/favicon.ico",
         "https://andrewjshilliday.github.io/musicplayer/index.html",
-        "https://andrewjshilliday.github.io/musicplayer/main-es2015.0abdf1de827215a4ab8a.js",
-        "https://andrewjshilliday.github.io/musicplayer/main-es5.0abdf1de827215a4ab8a.js",
+        "https://andrewjshilliday.github.io/musicplayer/main-es2015.c021061f2f63df2ab721.js",
+        "https://andrewjshilliday.github.io/musicplayer/main-es5.c021061f2f63df2ab721.js",
         "https://andrewjshilliday.github.io/musicplayer/polyfills-es2015.cf1f5ca47a11c1b4a8bd.js",
         "https://andrewjshilliday.github.io/musicplayer/polyfills-es5.ebfa18efe0b2772f2a41.js",
         "https://andrewjshilliday.github.io/musicplayer/runtime-es2015.b948044840398824f16e.js",
@@ -37,6 +37,7 @@
         "https://andrewjshilliday.github.io/musicplayer/assets/images/apple-music.svg",
         "https://andrewjshilliday.github.io/musicplayer/assets/images/apple_music_logo.png",
         "https://andrewjshilliday.github.io/musicplayer/assets/images/artist_background_placeholder.jpg",
+        "https://andrewjshilliday.github.io/musicplayer/assets/images/paddle-dark.svg",
         "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder-transparent.png",
         "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder.jpeg",
         "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder.png",
@@ -54,7 +55,8 @@
         "https://andrewjshilliday.github.io/musicplayer/fa-solid-900.333bae208dc363746961.woff",
         "https://andrewjshilliday.github.io/musicplayer/fa-solid-900.44d537ab79f921fde5a2.woff2",
         "https://andrewjshilliday.github.io/musicplayer/fa-solid-900.8e4a6dcc692b3887f9f5.eot",
-        "https://andrewjshilliday.github.io/musicplayer/fa-solid-900.c2801fb415f03c7b1709.svg"
+        "https://andrewjshilliday.github.io/musicplayer/fa-solid-900.c2801fb415f03c7b1709.svg",
+        "https://andrewjshilliday.github.io/musicplayer/paddle-dark.7f0391047b6ad16eaa3b.svg"
       ],
       "patterns": []
     }
@@ -72,6 +74,7 @@
     "https://andrewjshilliday.github.io/musicplayer/assets/images/apple-music.svg": "cc0c5288134f771cd7541f9b0af1b6c6f93ce107",
     "https://andrewjshilliday.github.io/musicplayer/assets/images/apple_music_logo.png": "4f7ad5eeb0b9332f9345644a07fd1389320dba92",
     "https://andrewjshilliday.github.io/musicplayer/assets/images/artist_background_placeholder.jpg": "4b9ebf7262676c60026476285d3d388131b6aa29",
+    "https://andrewjshilliday.github.io/musicplayer/assets/images/paddle-dark.svg": "6c31e857e2266530dad03b01a866f2494c3805d5",
     "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder-transparent.png": "c55c6d790cbb3e82c314e2772434a470fd51330e",
     "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder.jpeg": "2f59bad7a85b15f8def0a3c527b53f4a7459995c",
     "https://andrewjshilliday.github.io/musicplayer/assets/images/placeholder.png": "35edd59eac472912b6bdd987bfeaa468ce702e10",
@@ -91,9 +94,10 @@
     "https://andrewjshilliday.github.io/musicplayer/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
     "https://andrewjshilliday.github.io/musicplayer/fa-solid-900.c2801fb415f03c7b1709.svg": "55a9f6dd285c88c6c9847fee0d5ce127c4c61c52",
     "https://andrewjshilliday.github.io/musicplayer/favicon.ico": "f6091f55db8d3b96139f2189697426590ea277fd",
-    "https://andrewjshilliday.github.io/musicplayer/index.html": "378dad9f23455542a5d1025026ec8b69de925862",
-    "https://andrewjshilliday.github.io/musicplayer/main-es2015.0abdf1de827215a4ab8a.js": "f5d5c6554e39198600a043814e2697b2688ed5f6",
-    "https://andrewjshilliday.github.io/musicplayer/main-es5.0abdf1de827215a4ab8a.js": "43eb53c0c3b5700f1df7f619962ea0cb0adfb9dc",
+    "https://andrewjshilliday.github.io/musicplayer/index.html": "5c6b6a4d8af0a5731d35a4a9dc5050bc0c690696",
+    "https://andrewjshilliday.github.io/musicplayer/main-es2015.c021061f2f63df2ab721.js": "34d53defbc2842b9c72b01557d3f3859fd44246d",
+    "https://andrewjshilliday.github.io/musicplayer/main-es5.c021061f2f63df2ab721.js": "a146fee592b6a6def17e6e7c15507442700ffaf5",
+    "https://andrewjshilliday.github.io/musicplayer/paddle-dark.7f0391047b6ad16eaa3b.svg": "6c31e857e2266530dad03b01a866f2494c3805d5",
     "https://andrewjshilliday.github.io/musicplayer/polyfills-es2015.cf1f5ca47a11c1b4a8bd.js": "926f48977a308e58f659e8fa099d83d7c8a355d3",
     "https://andrewjshilliday.github.io/musicplayer/polyfills-es5.ebfa18efe0b2772f2a41.js": "d780dcf3657fa8af4f168dcc6d008c246b0f430a",
     "https://andrewjshilliday.github.io/musicplayer/runtime-es2015.b948044840398824f16e.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
