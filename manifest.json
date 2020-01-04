@@ -1,6 +1,6 @@
 {
-  "name": "musicplayer",
-  "short_name": "musicplayer",
+  "name": "valence",
+  "short_name": "valence",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
