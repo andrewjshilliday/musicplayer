@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592070067837,
+  "timestamp": 1592171932879,
   "index": "https://andrewjshilliday.github.io/valence/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://andrewjshilliday.github.io/valence/favicon.ico",
         "https://andrewjshilliday.github.io/valence/index.html",
-        "https://andrewjshilliday.github.io/valence/main-es2015.fcd0f5674ba001f8ac11.js",
-        "https://andrewjshilliday.github.io/valence/main-es5.fcd0f5674ba001f8ac11.js",
+        "https://andrewjshilliday.github.io/valence/main-es2015.c30121ebb5bdcd2b9425.js",
+        "https://andrewjshilliday.github.io/valence/main-es5.c30121ebb5bdcd2b9425.js",
         "https://andrewjshilliday.github.io/valence/polyfills-es2015.0cda8f39942e011954f5.js",
         "https://andrewjshilliday.github.io/valence/polyfills-es5.c8bc89d0d7e780fc1ac8.js",
         "https://andrewjshilliday.github.io/valence/runtime-es2015.1eba213af0b233498d9d.js",
@@ -98,9 +98,9 @@
     "https://andrewjshilliday.github.io/valence/fa-solid-900.9451d5fee89b51a20f8a.woff2": "75a88815c47a249eadb5f0edc1675957f860cca7",
     "https://andrewjshilliday.github.io/valence/fa-solid-900.a940d584750708f5435c.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
     "https://andrewjshilliday.github.io/valence/favicon.ico": "03056bd434a640f734fadc84c672cfd1e04c0736",
-    "https://andrewjshilliday.github.io/valence/index.html": "0131ca578b883c6bb0400432172a9de96fc45eab",
-    "https://andrewjshilliday.github.io/valence/main-es2015.fcd0f5674ba001f8ac11.js": "6b8403dfee907e0399434b976f47a329bd2b6238",
-    "https://andrewjshilliday.github.io/valence/main-es5.fcd0f5674ba001f8ac11.js": "6b3f8d80c1e505d2fb0b4ccc6d7415ebf32ae773",
+    "https://andrewjshilliday.github.io/valence/index.html": "a87a9a5bca957fe0e15c0ccab9b93f6eece19f69",
+    "https://andrewjshilliday.github.io/valence/main-es2015.c30121ebb5bdcd2b9425.js": "451d70cccf4d5bbf2043aba5f1d76a9d7e979963",
+    "https://andrewjshilliday.github.io/valence/main-es5.c30121ebb5bdcd2b9425.js": "307af1f7ab458971f3d12db76912e65be6500f1e",
     "https://andrewjshilliday.github.io/valence/music.029084a31736dcf59ef3.svg": "74d263fdb6c9c5ee71edc0c56f1c6619a9f3441b",
     "https://andrewjshilliday.github.io/valence/polyfills-es2015.0cda8f39942e011954f5.js": "6d43d6020df2d2a6eb7040c1654efc4082b63f49",
     "https://andrewjshilliday.github.io/valence/polyfills-es5.c8bc89d0d7e780fc1ac8.js": "c749dd6937f6276ed6d3147ef6685ebb1e0190a5",
